@@ -15,6 +15,7 @@ const getJoke = () =>
 
 module.exports = {
   name: "joke",
+  description: "get a random joke to release stress",
   aliases: ["jk"],
   /**
    *
